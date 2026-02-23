@@ -1,0 +1,29 @@
+# Never sync secrets / runtime state
+**/.openclaw/
+**/credentials/
+**/auth.json
+**/auth-profiles.json
+**/*.sqlite
+**/*.db
+**/*.lock
+
+# Chat/session transcripts or logs
+**/*.jsonl
+**/*.jsonl.*
+**/logs/
+**/log/
+**/*.log
+
+# Temp / caches
+**/__pycache__/
+**/node_modules/
+**/.cache/
+**/tmp/
+
+# Large / potentially sensitive screenshots
+**/screenshot*
+**/*screenshot*
+**/*.mp4
+**/*.mov
+
+.DS_Store
