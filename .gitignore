@@ -1,29 +1,41 @@
-# Never sync secrets / runtime state
-**/.openclaw/
-**/credentials/
-**/auth.json
-**/auth-profiles.json
-**/*.sqlite
-**/*.db
-**/*.lock
+# OpenClaw workspace mirror — safety-first ignores
 
-# Chat/session transcripts or logs
+# Never mirror internal state / credentials
+**/.openclaw/**
+**/credentials/**
+**/.env
+**/*.env
+
+# Logs / databases / locks
+**/*.sqlite
+**/*.sqlite3
+**/*.db
 **/*.jsonl
-**/*.jsonl.*
-**/logs/
-**/log/
+**/*.lock
 **/*.log
 
-# Temp / caches
-**/__pycache__/
-**/node_modules/
-**/.cache/
-**/tmp/
+# Git dirs from nested workspaces
+**/.git/**
 
-# Large / potentially sensitive screenshots
-**/screenshot*
-**/*screenshot*
+# OS / cache
+**/.DS_Store
+**/__pycache__/**
+**/node_modules/**
+**/.cache/**
+
+# Large binaries (adjust as needed)
 **/*.mp4
 **/*.mov
+**/*.mkv
+**/*.avi
+**/*.zip
+**/*.7z
+**/*.tar
+**/*.gz
+**/*.rar
 
-.DS_Store
+# Screenshots / images can be big; keep by default off (uncomment to ignore)
+# **/*.png
+# **/*.jpg
+# **/*.jpeg
+# **/*.webp
