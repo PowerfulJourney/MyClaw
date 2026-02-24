@@ -84,9 +84,35 @@ if ! git rev-parse --is-inside-work-tree >/dev/null 2>&1; then
   exit 2
 fi
 
+# GitHub SSH 22 is blocked in some networks/WSL setups. Use ssh.github.com:443.
+SSH_KEY="/home/administrator/.openclaw/credentials/ssh_myclaw"
+export GIT_SSH_COMMAND="ssh -i $SSH_KEY -o IdentitiesOnly=yes -o StrictHostKeyChecking=accept-new -p 443"
+
+# Ensure remote uses port 443 endpoint.
+git remote set-url origin "ssh://git@ssh.github.com:443/PowerfulJourney/MyClaw.git"
+
 git add -A
+
+# If nothing changed, we may still be ahead (previous run committed but push failed).
 if git diff --cached --quiet; then
-  echo "[sync] no changes"
+  if [ "${DRY_RUN:-}" = "1" ]; then
+    echo "[sync] no changes (DRY_RUN=1; skipping push)"
+    exit 0
+  fi
+
+  # Push if branch is ahead of upstream.
+  ahead_count="0"
+  if git rev-parse --abbrev-ref --symbolic-full-name @{u} >/dev/null 2>&1; then
+    ahead_count="$(git rev-list --count @{u}..HEAD 2>/dev/null || echo 0)"
+  fi
+
+  if [ "${ahead_count}" != "0" ]; then
+    echo "[sync] no file changes, but branch ahead (${ahead_count}); pushing"
+    git pull --rebase --autostash origin master
+    git push origin HEAD
+  else
+    echo "[sync] no changes"
+  fi
   exit 0
 fi
 
@@ -98,11 +124,5 @@ if [ "${DRY_RUN:-}" = "1" ]; then
   exit 0
 fi
 
-# GitHub SSH 22 is blocked in some networks/WSL setups. Use ssh.github.com:443.
-SSH_KEY="/home/administrator/.openclaw/credentials/ssh_myclaw"
-export GIT_SSH_COMMAND="ssh -i $SSH_KEY -o IdentitiesOnly=yes -o StrictHostKeyChecking=accept-new -p 443"
-
-# Ensure remote uses port 443 endpoint.
-git remote set-url origin "ssh://git@ssh.github.com:443/PowerfulJourney/MyClaw.git"
-
+git pull --rebase --autostash origin master
 git push origin HEAD
