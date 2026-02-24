@@ -1,6 +1,10 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
+
+# Ensure git uses the dedicated deploy key
+export GIT_SSH_COMMAND="ssh -i /home/administrator/.openclaw/credentials/ssh_myclaw -o BatchMode=yes -o StrictHostKeyChecking=accept-new"
+
 # Mirror all OpenClaw workspaces into this repo and push.
 # Safety-first: relies on .gitignore and rsync excludes below.
 

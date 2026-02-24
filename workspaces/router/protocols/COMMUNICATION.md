@@ -32,6 +32,15 @@ Blocking:
 Links/Artifacts:
 ```
 
+### 文件路径展示规范（强制）
+
+- 在 Telegram 群聊中，凡是输出本地文件路径/目录路径，必须用 **代码块** 包裹，避免路径断行/不可读。
+- 示例：
+
+```text
+/home/administrator/.openclaw/workspace-logic/projects/creator-asset-20260223/CREATOR_ASSET_EXEC_PACK_V2.md
+```
+
 ## 3) Telegram 群聊协作方式（方案 1：内部派单 / Worker 直接同步到群 / Router 串行门控 + 群内汇总）
 
 目标：**不再出现 `sessions_send ... timeout`**，同时让群里看起来像“多智能体在对话”。
