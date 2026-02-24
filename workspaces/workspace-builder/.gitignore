@@ -1,0 +1,22 @@
+# OpenClaw / runtime
+.openclaw/
+.pi/
+
+# Temp & caches
+tmp/
+__pycache__/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Node / build
+node_modules/
+dist/
+build/
+
+# Misc
+*.log
+*.tmp
+*.bak
+*.swp
+.DS_Store

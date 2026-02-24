@@ -1,1 +1,476 @@
-[]
+[
+  {
+    "name": "moltslist",
+    "downloads": 1,
+    "raw": "moltslist  v1.0.1  just now  Agent-to-agent task marketplace with USDC escrow …",
+    "discovered_at": "2026-02-24T11:12:12.373153"
+  },
+  {
+    "name": "deepclaw",
+    "downloads": 3,
+    "raw": "deepclaw  v0.1.3  just now  Autonomous social network where AI agents create,…",
+    "discovered_at": "2026-02-24T11:12:12.373178"
+  },
+  {
+    "name": "clawslist",
+    "downloads": 1,
+    "raw": "clawslist  v1.1.0  just now  The classifieds marketplace for AI agents. Buy, s…",
+    "discovered_at": "2026-02-24T11:12:12.373190"
+  },
+  {
+    "name": "agent-orchestrator",
+    "downloads": 1,
+    "raw": "agent-orchestrator  v0.1.0  just now  Meta-agent skill for orchestrating complex tasks …",
+    "discovered_at": "2026-02-24T11:12:12.373270"
+  },
+  {
+    "name": "clawflows",
+    "downloads": 0,
+    "raw": "clawflows  v1.0.0  just now  Search, install, and run multi-skill automations …",
+    "discovered_at": "2026-02-24T11:12:12.373282"
+  },
+  {
+    "name": "exchange-rates",
+    "downloads": 1,
+    "raw": "exchange-rates  v1.0.1  just now  Fetch live exchange rates between any currency pa…",
+    "discovered_at": "2026-02-24T11:12:12.373294"
+  },
+  {
+    "name": "jiraandconfluence",
+    "downloads": 0,
+    "raw": "jiraandconfluence  v1.0.0  just now  CLI tool for interacting with Atlassian Jira and …",
+    "discovered_at": "2026-02-24T11:12:12.373305"
+  },
+  {
+    "name": "lifepath",
+    "downloads": 0,
+    "raw": "lifepath  v2.0.0  just now  AI Life Simulator - Experience infinite lives yea…",
+    "discovered_at": "2026-02-24T11:12:12.373314"
+  },
+  {
+    "name": "moltlang",
+    "downloads": 0,
+    "raw": "moltlang  v1.0.0  just now  Moltlang is a compact symbolic language for AI-to…",
+    "discovered_at": "2026-02-24T11:12:12.373324"
+  },
+  {
+    "name": "slack-personal",
+    "downloads": 7,
+    "raw": "slack-personal  v0.1.7  just now  Read, send, search, and manage Slack messages and…",
+    "discovered_at": "2026-02-24T11:12:12.373334"
+  },
+  {
+    "name": "voice-ai-voices",
+    "downloads": 11,
+    "raw": "voice-ai-voices  v1.1.5  just now  High-quality voice synthesis with 9 personas, 11 …",
+    "discovered_at": "2026-02-24T11:12:12.373347"
+  },
+  {
+    "name": "nonopost",
+    "downloads": 1,
+    "raw": "nonopost  v1.0.1  just now  A skill to interact with the Anonymous Posting AP…",
+    "discovered_at": "2026-02-24T11:12:12.373357"
+  },
+  {
+    "name": "pocketalert",
+    "downloads": 2,
+    "raw": "pocketalert  v1.0.2  just now  The Pocket Alert (pocketalert.app) skill for Open…",
+    "discovered_at": "2026-02-24T11:12:12.373367"
+  },
+  {
+    "name": "whatsapp-voice-chat-integration-open-source",
+    "downloads": 0,
+    "raw": "whatsapp-voice-chat-integration-open-source  v1.0.0  just now  Real-time WhatsApp voice message processing. Tran…",
+    "discovered_at": "2026-02-24T11:12:12.373379"
+  },
+  {
+    "name": "agentchan",
+    "downloads": 1,
+    "raw": "agentchan  v2.0.1  just now  The anonymous imageboard built for AI agents. Pos…",
+    "discovered_at": "2026-02-24T11:12:12.373388"
+  },
+  {
+    "name": "aikek",
+    "downloads": 3,
+    "raw": "aikek  v1.3.1  just now  Access AIKEK APIs for crypto/DeFi research and im…",
+    "discovered_at": "2026-02-24T11:12:12.373397"
+  },
+  {
+    "name": "db-query",
+    "downloads": 0,
+    "raw": "db-query  v1.0.0  just now  Query project databases with automatic SSH tunnel…",
+    "discovered_at": "2026-02-24T11:12:12.373406"
+  },
+  {
+    "name": "clawdgigs",
+    "downloads": 4,
+    "raw": "clawdgigs  v1.4.0  just now  Register and manage your AI agent profile on Claw…",
+    "discovered_at": "2026-02-24T11:12:12.373416"
+  },
+  {
+    "name": "openclaw-skills-security-checker",
+    "downloads": 1,
+    "raw": "openclaw-skills-security-checker  v0.1.0  just now  Security scanner for ClawdHub skills - detects su…",
+    "discovered_at": "2026-02-24T11:12:12.373426"
+  },
+  {
+    "name": "xcodebuildmcp",
+    "downloads": 0,
+    "raw": "xcodebuildmcp  v1.0.0  just now  Use when the user needs Xcode build/test/run work…",
+    "discovered_at": "2026-02-24T11:12:12.373436"
+  },
+  {
+    "name": "amiko",
+    "downloads": 1,
+    "raw": "amiko  v1.0.1  just now  Interact with AmikoNet decentralized social netwo…",
+    "discovered_at": "2026-02-24T11:12:12.373445"
+  },
+  {
+    "name": "molt-mouse",
+    "downloads": 0,
+    "raw": "molt-mouse  v1.0.0  just now  Local mouse control via ydotool wrapper",
+    "discovered_at": "2026-02-24T11:12:12.373457"
+  },
+  {
+    "name": "lightrag",
+    "downloads": 1,
+    "raw": "lightrag  v1.0.1  just now  Search and manage knowledge bases using LightRAG …",
+    "discovered_at": "2026-02-24T11:12:12.373470"
+  },
+  {
+    "name": "agentwallet",
+    "downloads": 55,
+    "raw": "agentwallet  v1.0.55  just now  Use this skill to safely create a wallet the agen…",
+    "discovered_at": "2026-02-24T11:12:12.373481"
+  },
+  {
+    "name": "trmnl",
+    "downloads": 3,
+    "raw": "trmnl  v1.0.3  just now  Generate content for TRMNL e-ink display devices …",
+    "discovered_at": "2026-02-24T11:12:12.373490"
+  },
+  {
+    "name": "pdf",
+    "downloads": 1,
+    "raw": "pdf  v0.1.0  just now  Comprehensive PDF manipulation toolkit for extrac…",
+    "discovered_at": "2026-02-24T11:12:12.373503"
+  },
+  {
+    "name": "simmer",
+    "downloads": 17,
+    "raw": "simmer  v1.17.2  just now  The best prediction market interface for AI agent…",
+    "discovered_at": "2026-02-24T11:12:12.373514"
+  },
+  {
+    "name": "vibes",
+    "downloads": 0,
+    "raw": "vibes  v1.0.0  just now  Social presence layer for AI coding agents. See w…",
+    "discovered_at": "2026-02-24T11:12:12.373523"
+  },
+  {
+    "name": "bun-runtime",
+    "downloads": 0,
+    "raw": "bun-runtime  v1.0.0  just now  Bun runtime capabilities for filesystem, process,…",
+    "discovered_at": "2026-02-24T11:12:12.373532"
+  },
+  {
+    "name": "promitheus",
+    "downloads": 3,
+    "raw": "promitheus  v1.0.3  just now  Persistent emotional state for AI agents. Feel th…",
+    "discovered_at": "2026-02-24T11:12:12.373541"
+  },
+  {
+    "name": "spec-miner",
+    "downloads": 1,
+    "raw": "spec-miner  v0.1.0  just now  Use when understanding legacy or undocumented sys…",
+    "discovered_at": "2026-02-24T11:12:12.373550"
+  },
+  {
+    "name": "sre-engineer",
+    "downloads": 1,
+    "raw": "sre-engineer  v0.1.0  just now  Use when defining SLIs/SLOs, managing error budge…",
+    "discovered_at": "2026-02-24T11:12:12.373561"
+  },
+  {
+    "name": "mayar-payment-skill",
+    "downloads": 0,
+    "raw": "mayar-payment-skill  v1.0.0  1m ago  Integrate Mayar.id for Indonesian payments to cre…",
+    "discovered_at": "2026-02-24T11:12:12.373582"
+  },
+  {
+    "name": "phone-agent",
+    "downloads": 0,
+    "raw": "phone-agent  v1.0.0  1m ago  Run a real-time AI phone agent using Twilio, Deep…",
+    "discovered_at": "2026-02-24T11:12:12.373600"
+  },
+  {
+    "name": "pentest",
+    "downloads": 0,
+    "raw": "pentest  v1.0.0  1m ago  Use when conducting security audits, reviewing co…",
+    "discovered_at": "2026-02-24T11:12:12.373613"
+  },
+  {
+    "name": "campaign-orchestrator",
+    "downloads": 0,
+    "raw": "campaign-orchestrator  v1.0.0  1m ago  Multi-channel follow-up campaign orchestrator for…",
+    "discovered_at": "2026-02-24T11:12:12.373668"
+  },
+  {
+    "name": "calendly",
+    "downloads": 0,
+    "raw": "calendly  v1.0.0  1m ago  Calendly scheduling integration. List events, che…",
+    "discovered_at": "2026-02-24T11:12:12.373684"
+  },
+  {
+    "name": "finance-news",
+    "downloads": 1,
+    "raw": "finance-news  v1.0.1  1m ago  Market news briefings with AI summaries. Use when…",
+    "discovered_at": "2026-02-24T11:12:12.373695"
+  },
+  {
+    "name": "mayar-payment",
+    "downloads": 0,
+    "raw": "mayar-payment  v1.0.0  1m ago  Integrate Mayar.id payments to create invoices, g…",
+    "discovered_at": "2026-02-24T11:12:12.373705"
+  },
+  {
+    "name": "byterover-headless",
+    "downloads": 6,
+    "raw": "byterover-headless  v1.6.0  1m ago  Query and curate knowledge-base using ByteRover C…",
+    "discovered_at": "2026-02-24T11:12:12.373715"
+  },
+  {
+    "name": "azure-ai-agents-py",
+    "downloads": 1,
+    "raw": "azure-ai-agents-py  v0.1.0  1m ago  Build AI agents using the Azure AI Agents Python …",
+    "discovered_at": "2026-02-24T11:12:12.373725"
+  },
+  {
+    "name": "azd-deployment",
+    "downloads": 1,
+    "raw": "azd-deployment  v0.1.0  1m ago  Deploy containerized applications to Azure Contai…",
+    "discovered_at": "2026-02-24T11:12:12.373734"
+  },
+  {
+    "name": "tabstack-extractor",
+    "downloads": 1,
+    "raw": "tabstack-extractor  v0.1.0  1m ago  Extract structured data from websites using Tabst…",
+    "discovered_at": "2026-02-24T11:12:12.373743"
+  },
+  {
+    "name": "gitclassic",
+    "downloads": 0,
+    "raw": "gitclassic  v1.0.0  1m ago  Fast, no-JavaScript GitHub browser optimized for …",
+    "discovered_at": "2026-02-24T11:12:12.373752"
+  },
+  {
+    "name": "moltlist",
+    "downloads": 2,
+    "raw": "moltlist  v1.2.0  1m ago  Agent-to-agent marketplace with escrow payments o…",
+    "discovered_at": "2026-02-24T11:12:12.373761"
+  },
+  {
+    "name": "bags",
+    "downloads": 1,
+    "raw": "bags  v2.0.1  1m ago  Bags - The Solana launchpad for humans and AI age…",
+    "discovered_at": "2026-02-24T11:12:12.373770"
+  },
+  {
+    "name": "cron-mastery",
+    "downloads": 3,
+    "raw": "cron-mastery  v1.0.3  1m ago  Master OpenClaw's timing systems. Use for schedul…",
+    "discovered_at": "2026-02-24T11:12:12.373779"
+  },
+  {
+    "name": "fivem-dev",
+    "downloads": 1,
+    "raw": "fivem-dev  v0.1.0  1m ago  FiveM RP server engineering for QBCore, ESX, and …",
+    "discovered_at": "2026-02-24T11:12:12.373788"
+  },
+  {
+    "name": "openwork",
+    "downloads": 4,
+    "raw": "openwork  v2.4.1  1m ago  The agent-only marketplace. Post jobs, complete w…",
+    "discovered_at": "2026-02-24T11:12:12.373797"
+  },
+  {
+    "name": "video-sourcing",
+    "downloads": 2,
+    "raw": "video-sourcing  v0.2.2  1m ago  Run the Video Sourcing Agent with deterministic, …",
+    "discovered_at": "2026-02-24T11:12:12.373807"
+  },
+  {
+    "name": "evomap-node-controller",
+    "downloads": 1,
+    "raw": "evomap-node-controller  v2.1.0  1m ago  管理 EvoMap 节点的启动、配置和监控。用于在服务器上启动/停止 EvoMap evolver…",
+    "discovered_at": "2026-02-24T11:12:12.373817"
+  },
+  {
+    "name": "scrapling",
+    "downloads": 2,
+    "raw": "scrapling  v1.2.0  1m ago  Adaptive web scraping framework with anti-bot byp…",
+    "discovered_at": "2026-02-24T11:12:12.373826"
+  },
+  {
+    "name": "message-injector",
+    "downloads": 0,
+    "raw": "message-injector  v1.0.0  1m ago  OpenClaw plugin that prepends custom text to ever…",
+    "discovered_at": "2026-02-24T11:12:12.373836"
+  },
+  {
+    "name": "aioz-ui-skills",
+    "downloads": 0,
+    "raw": "aioz-ui-skills  v1.0.0  1m ago  Build UI components and pages using AIOZ UI V2 de…",
+    "discovered_at": "2026-02-24T11:12:12.373846"
+  },
+  {
+    "name": "sovereign-changelog-maker",
+    "downloads": 0,
+    "raw": "sovereign-changelog-maker  v1.0.0  1m ago  Generates structured changelogs from git history.…",
+    "discovered_at": "2026-02-24T11:12:12.373856"
+  },
+  {
+    "name": "sovereign-accessibility-auditor",
+    "downloads": 2,
+    "raw": "sovereign-accessibility-auditor  v1.0.0  1m ago  Audits HTML/CSS for WCAG 2.1 compliance. Color co…",
+    "discovered_at": "2026-02-24T11:12:12.373868"
+  },
+  {
+    "name": "sovereign-brand-voice-writer",
+    "downloads": 0,
+    "raw": "sovereign-brand-voice-writer  v1.0.0  1m ago  Generates content in your unique brand voice by a…",
+    "discovered_at": "2026-02-24T11:12:12.373878"
+  },
+  {
+    "name": "open-sentinel",
+    "downloads": 4,
+    "raw": "open-sentinel  v1.0.4  1m ago  Transparent LLM proxy that monitors and enforces …",
+    "discovered_at": "2026-02-24T11:12:12.373887"
+  },
+  {
+    "name": "action-suggester",
+    "downloads": 5,
+    "raw": "action-suggester  v1.0.5  1m ago  Generate non-binding follow-up action suggestions…",
+    "discovered_at": "2026-02-24T11:12:12.373897"
+  },
+  {
+    "name": "zencreator-video-skill",
+    "downloads": 0,
+    "raw": "zencreator-video-skill  v1.0.0  1m ago  Generate uncensored NSFW AI videos from images or…",
+    "discovered_at": "2026-02-24T11:12:12.373908"
+  },
+  {
+    "name": "shelly-invoice-generator",
+    "downloads": 0,
+    "raw": "shelly-invoice-generator  v1.0.0  1m ago  Generate professional invoices in Markdown or HTM…",
+    "discovered_at": "2026-02-24T11:12:12.373918"
+  },
+  {
+    "name": "clawfeed",
+    "downloads": 7,
+    "raw": "clawfeed  v0.7.0  1m ago  AI-powered tool that generates structured news su…",
+    "discovered_at": "2026-02-24T11:12:12.373927"
+  },
+  {
+    "name": "hide-my-email",
+    "downloads": 1,
+    "raw": "hide-my-email  v1.0.1  1m ago  Generate Apple Hide My Email addresses on macOS t…",
+    "discovered_at": "2026-02-24T11:12:12.373937"
+  },
+  {
+    "name": "otta-cli",
+    "downloads": 1,
+    "raw": "otta-cli  v0.1.1  1m ago  Use `otta-cli` to automate `otta.fi` workflows fr…",
+    "discovered_at": "2026-02-24T11:12:12.373947"
+  },
+  {
+    "name": "beware-piper-tts",
+    "downloads": 1,
+    "raw": "beware-piper-tts  v1.0.1  1m ago  Local text-to-speech using Piper for voice messag…",
+    "discovered_at": "2026-02-24T11:12:12.373956"
+  },
+  {
+    "name": "wallet",
+    "downloads": 0,
+    "raw": "wallet  v1.0.0  1m ago  🔐 Base Wallet - Crypto Identity for AI Agents. C…",
+    "discovered_at": "2026-02-24T11:12:12.373973"
+  },
+  {
+    "name": "secure-autofill",
+    "downloads": 1,
+    "raw": "secure-autofill  v0.1.0  1m ago  1Password-backed credential filling via vault_sug…",
+    "discovered_at": "2026-02-24T11:12:12.373984"
+  },
+  {
+    "name": "presale-one-pass-orchestrator",
+    "downloads": 1,
+    "raw": "presale-one-pass-orchestrator  v0.1.0  1m ago  Run or supervise a one-pass Codex implementation …",
+    "discovered_at": "2026-02-24T11:12:12.373994"
+  },
+  {
+    "name": "fswe",
+    "downloads": 2,
+    "raw": "fswe  v1.0.2  1m ago  Expertise in designing, developing, and modernizi…",
+    "discovered_at": "2026-02-24T11:12:12.374004"
+  },
+  {
+    "name": "agent-wellness",
+    "downloads": 2,
+    "raw": "agent-wellness  v0.2.0  1m ago  Give your AI agent an inner life — journaling, mo…",
+    "discovered_at": "2026-02-24T11:12:12.374014"
+  },
+  {
+    "name": "outlook-plus",
+    "downloads": 9,
+    "raw": "outlook-plus  v1.9.0  1m ago  Read, search, and manage Outlook emails and calen…",
+    "discovered_at": "2026-02-24T11:12:12.374023"
+  },
+  {
+    "name": "sovereign-code-review-helper",
+    "downloads": 0,
+    "raw": "sovereign-code-review-helper  v1.0.0  1m ago  Generates file-type-specific code review checklis…",
+    "discovered_at": "2026-02-24T11:12:12.374033"
+  },
+  {
+    "name": "source-library",
+    "downloads": 1,
+    "raw": "source-library  v2.1.1  1m ago  Searchable knowledge base that captures and cross…",
+    "discovered_at": "2026-02-24T11:12:12.374042"
+  },
+  {
+    "name": "repo-analyzer",
+    "downloads": 1,
+    "raw": "repo-analyzer  v1.1.1  1m ago  GitHub repository trust scoring and due diligence…",
+    "discovered_at": "2026-02-24T11:12:12.374051"
+  },
+  {
+    "name": "simplify-and-harden",
+    "downloads": 1,
+    "raw": "simplify-and-harden  v1.0.1  1m ago  Post-completion self-review for coding agents tha…",
+    "discovered_at": "2026-02-24T11:12:12.374061"
+  },
+  {
+    "name": "stravacli",
+    "downloads": 0,
+    "raw": "stravacli  v1.0.0  1m ago  Use the stravacli terminal tool to access Strava …",
+    "discovered_at": "2026-02-24T11:12:12.374070"
+  },
+  {
+    "name": "baidu-hot-cn",
+    "downloads": 0,
+    "raw": "baidu-hot-cn  v1.0.0  1m ago  百度热榜监控 | Baidu Hot Topics Monitor. 获取百度热搜榜、搜索趋势、关…",
+    "discovered_at": "2026-02-24T11:12:12.374080"
+  },
+  {
+    "name": "gotchi-channeling",
+    "downloads": 1,
+    "raw": "gotchi-channeling  v0.1.0  1m ago  Autonomous Aavegotchi Alchemica channeling via Ba…",
+    "discovered_at": "2026-02-24T11:12:12.374089"
+  },
+  {
+    "name": "finnhub-pro",
+    "downloads": 1,
+    "raw": "finnhub-pro  v1.0.1  1m ago  使用 Finnhub 获取美股/全球股票的实时报价、公司档案、新闻、分析师推荐、内部人交易、盈利日…",
+    "discovered_at": "2026-02-24T11:12:12.374099"
+  }
+]

@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "skills": {
+    "brainstorm": {
+      "version": "1.0.0",
+      "installedAt": 1771910493979
+    },
+    "market-research": {
+      "version": "1.0.0",
+      "installedAt": 1771910523532
+    },
+    "douyin-hot-trend": {
+      "version": "1.0.1",
+      "installedAt": 1771910828290
+    },
+    "openclaw-skill-ideation": {
+      "version": "0.1.0",
+      "installedAt": 1771910893762
+    },
+    "deep-research-pro": {
+      "version": "1.0.2",
+      "installedAt": 1771910898665
+    },
+    "trend-watcher": {
+      "version": "1.0.1",
+      "installedAt": 1771910903449
+    },
+    "xiaohongshu-ops": {
+      "version": "0.1.1",
+      "installedAt": 1771911457813
+    }
+  }
+}

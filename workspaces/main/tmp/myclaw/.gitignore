@@ -1,0 +1,41 @@
+# OpenClaw workspace mirror — safety-first ignores
+
+# Never mirror internal state / credentials
+**/.openclaw/**
+**/credentials/**
+**/.env
+**/*.env
+
+# Logs / databases / locks
+**/*.sqlite
+**/*.sqlite3
+**/*.db
+**/*.jsonl
+**/*.lock
+**/*.log
+
+# Git dirs from nested workspaces
+**/.git/**
+
+# OS / cache
+**/.DS_Store
+**/__pycache__/**
+**/node_modules/**
+**/.cache/**
+
+# Large binaries (adjust as needed)
+**/*.mp4
+**/*.mov
+**/*.mkv
+**/*.avi
+**/*.zip
+**/*.7z
+**/*.tar
+**/*.gz
+**/*.rar
+
+# Screenshots / images can be big; keep by default off (uncomment to ignore)
+# **/*.png
+# **/*.jpg
+# **/*.jpeg
+# **/*.webp

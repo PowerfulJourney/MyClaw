@@ -1,24 +1,29 @@
-# 📦 ClawHub Skill Monitor Report - 2026-02-23
+# 📦 ClawHub Skill Monitor Report - 2026-02-24
 
-⏰ Generated: 2026-02-23 08:07:50
+⏰ Generated: 2026-02-24 09:04:10
 🌏 Timezone: Asia/Shanghai
-📡 Source: primary+fallback
-🏷️ State: fetch_failed
+📡 Source: primary
+🏷️ State: success_with_new
 
-## ⚠️ Status: Fetch Failed
+## 🆕 New Skills Discovered
 
-本次未能拿到可用的 skill 列表（这不等同于‘今日无新增’）。
+Found **80** new skill(s) today:
 
-**Possible reasons:**
-- Network connectivity issues
-- ClawHub service temporarily unavailable
-- API response timeout (service may be slow)
+1. **epstein-emails** (downloads: 383000)
+   - Info: `epstein-emails  v1.0.1  3m ago  Query and filter 383,000+ court-released Jeffrey …`
 
-**Reason:** `all primary retries failed; fallback file is empty`
+2. **sports** (downloads: 24)
+   - Info: `sports  v1.0.24  3m ago  Autonomously monitor live sports games and execut…`
 
-**Recommendation:**
-- Retry in low-traffic window (07:00-09:00)
-- Keep fallback_skills.json ready as backup source
+3. **polymarket-fast-loop** (downloads: 15)
+   - Info: `polymarket-fast-loop  v1.0.12  3m ago  Trade Polymarket BTC 5-minute and 15-minute fast …`
+
+4. **evolver** (downloads: 14)
+   - Info: `evolver  v1.14.0  3m ago  A self-evolution engine for AI agents. Analyzes r…`
+
+5. **cn-ecommerce-search** (downloads: 8)
+   - Info: `cn-ecommerce-search  v2.0.0  3m ago  Search products across 8 Chinese e-commerce platf…`
+
 ---
 
 📊 Monitor Configuration:

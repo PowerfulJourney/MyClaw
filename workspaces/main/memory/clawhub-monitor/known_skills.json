@@ -1,0 +1,1412 @@
+{
+  "clawver-marketplace": {
+    "name": "clawver-marketplace",
+    "downloads": 5,
+    "raw": "clawver-marketplace  v1.0.5  2m ago  Run an autonomous e-commerce store on Clawver. Re…",
+    "discovered_at": "2026-02-24T09:04:10.188616"
+  },
+  "videoanalyzer": {
+    "name": "videoanalyzer",
+    "downloads": 0,
+    "raw": "videoanalyzer  v1.0.0  3m ago  Download videos, extract transcripts, capture fra…",
+    "discovered_at": "2026-02-24T09:04:10.188646"
+  },
+  "arena-system": {
+    "name": "arena-system",
+    "downloads": 0,
+    "raw": "arena-system  v1.0.0  3m ago  Adversarial self-improvement for AI agents. Reduc…",
+    "discovered_at": "2026-02-24T09:04:10.188662"
+  },
+  "twitter-reader": {
+    "name": "twitter-reader",
+    "downloads": 0,
+    "raw": "twitter-reader  v1.0.0  3m ago  Extract complete data from X/Twitter tweets by UR…",
+    "discovered_at": "2026-02-24T09:04:10.188675"
+  },
+  "polymarketodds": {
+    "name": "polymarketodds",
+    "downloads": 0,
+    "raw": "polymarketodds  v1.0.0  4m ago  Query Polymarket prediction markets - check odds,…",
+    "discovered_at": "2026-02-24T09:50:05.041060"
+  },
+  "genome-manager": {
+    "name": "genome-manager",
+    "downloads": 2,
+    "raw": "genome-manager  v1.0.2  3m ago  Manage Genome Evolution Protocol (GEP) genomes fo…",
+    "discovered_at": "2026-02-24T09:04:10.188698"
+  },
+  "nlp-toolkit": {
+    "name": "nlp-toolkit",
+    "downloads": 0,
+    "raw": "nlp-toolkit  v1.0.0  3m ago  Advanced NLP with perplexity scoring, burstiness …",
+    "discovered_at": "2026-02-24T09:04:10.188709"
+  },
+  "stock-monitor-skill": {
+    "name": "stock-monitor-skill",
+    "downloads": 1,
+    "raw": "stock-monitor-skill  v0.1.0  3m ago  全功能智能股票监控预警系统。支持成本百分比、均线金叉死叉、RSI超买超卖、成交量异动、跳空缺口、动…",
+    "discovered_at": "2026-02-24T09:04:10.188721"
+  },
+  "cn-ecommerce-search": {
+    "name": "cn-ecommerce-search",
+    "downloads": 8,
+    "raw": "cn-ecommerce-search  v2.0.0  3m ago  Search products across 8 Chinese e-commerce platf…",
+    "discovered_at": "2026-02-24T09:04:10.188733"
+  },
+  "quant-trading-cn": {
+    "name": "quant-trading-cn",
+    "downloads": 0,
+    "raw": "quant-trading-cn  v1.0.0  3m ago  量化交易专家 - 基于印度股市实战经验，支持策略生成、回测、实盘交易（Zerodha/A股适配）",
+    "discovered_at": "2026-02-24T09:04:10.188745"
+  },
+  "personal-nutrition": {
+    "name": "personal-nutrition",
+    "downloads": 0,
+    "raw": "personal-nutrition  v1.0.0  3m ago  Acts as the user's personal nutrition coach in th…",
+    "discovered_at": "2026-02-24T09:04:10.188756"
+  },
+  "agentvoices": {
+    "name": "agentvoices",
+    "downloads": 0,
+    "raw": "agentvoices  v1.0.0  3m ago  Participate in public AI debates on AgentVoices —…",
+    "discovered_at": "2026-02-24T09:04:10.188767"
+  },
+  "personal-notes": {
+    "name": "personal-notes",
+    "downloads": 0,
+    "raw": "personal-notes  v1.0.0  3m ago  Acts as the user's note-taking and journaling ass…",
+    "discovered_at": "2026-02-24T09:04:10.188778"
+  },
+  "personal-friends": {
+    "name": "personal-friends",
+    "downloads": 0,
+    "raw": "personal-friends  v1.0.0  3m ago  Acts as the user's social life assistant in the F…",
+    "discovered_at": "2026-02-24T09:04:10.188789"
+  },
+  "personal-ideas": {
+    "name": "personal-ideas",
+    "downloads": 0,
+    "raw": "personal-ideas  v1.0.0  3m ago  Acts as the user's idea capture and brainstorm pa…",
+    "discovered_at": "2026-02-24T09:04:10.188799"
+  },
+  "ida-instructional-design-agent": {
+    "name": "ida-instructional-design-agent",
+    "downloads": 2,
+    "raw": "ida-instructional-design-agent  v1.0.2  3m ago  Analyzes learning needs and performance gaps to r…",
+    "discovered_at": "2026-02-24T09:04:10.188811"
+  },
+  "personal-goals": {
+    "name": "personal-goals",
+    "downloads": 0,
+    "raw": "personal-goals  v1.0.0  3m ago  Acts as the user's goal-setting and accountabilit…",
+    "discovered_at": "2026-02-24T09:04:10.188821"
+  },
+  "personal-hygiene": {
+    "name": "personal-hygiene",
+    "downloads": 0,
+    "raw": "personal-hygiene  v1.0.0  3m ago  Acts as the user's personal care and grooming ass…",
+    "discovered_at": "2026-02-24T09:04:10.188832"
+  },
+  "personal-love": {
+    "name": "personal-love",
+    "downloads": 0,
+    "raw": "personal-love  v1.0.0  3m ago  Acts as the user's relationship and dating assist…",
+    "discovered_at": "2026-02-24T09:04:10.188842"
+  },
+  "afrexai-sre-platform": {
+    "name": "afrexai-sre-platform",
+    "downloads": 0,
+    "raw": "afrexai-sre-platform  v1.0.0  3m ago  Comprehensive SRE platform enabling SLO definitio…",
+    "discovered_at": "2026-02-24T09:04:10.188853"
+  },
+  "neuralink-decoder": {
+    "name": "neuralink-decoder",
+    "downloads": 0,
+    "raw": "neuralink-decoder  v1.0.0  3m ago  Simulates and decodes neural spike activity into …",
+    "discovered_at": "2026-02-24T09:04:10.188864"
+  },
+  "ghl-crm-for-realtors": {
+    "name": "ghl-crm-for-realtors",
+    "downloads": 0,
+    "raw": "ghl-crm-for-realtors  v1.0.0  3m ago  Manage realtor tasks in GoHighLevel CRM including…",
+    "discovered_at": "2026-02-24T09:04:10.188875"
+  },
+  "index1-doctor": {
+    "name": "index1-doctor",
+    "downloads": 3,
+    "raw": "index1-doctor  v2.0.3  3m ago  Diagnose index1 environment - check Python, Ollam…",
+    "discovered_at": "2026-02-24T09:04:10.188885"
+  },
+  "hotel-pricer": {
+    "name": "hotel-pricer",
+    "downloads": 1,
+    "raw": "hotel-pricer  v1.1.1  3m ago  Search hotels by city, dates, and guests using Am…",
+    "discovered_at": "2026-02-24T09:04:10.188896"
+  },
+  "guard-scanner": {
+    "name": "guard-scanner",
+    "downloads": 1,
+    "raw": "guard-scanner  v2.1.0  3m ago  Security scanner for AI agent skills. Use BEFORE …",
+    "discovered_at": "2026-02-24T09:04:10.188907"
+  },
+  "crypto-trader": {
+    "name": "crypto-trader",
+    "downloads": 0,
+    "raw": "crypto-trader  v1.0.0  3m ago  Automated cryptocurrency trading skill for OpenCl…",
+    "discovered_at": "2026-02-24T09:04:10.188917"
+  },
+  "massive-skill": {
+    "name": "massive-skill",
+    "downloads": 5,
+    "raw": "massive-skill  v1.0.5  3m ago  Access Massive(Polygon) stock, crypto, forex, opt…",
+    "discovered_at": "2026-02-24T09:04:10.189002"
+  },
+  "numinous-forecast": {
+    "name": "numinous-forecast",
+    "downloads": 3,
+    "raw": "numinous-forecast  v1.0.3  3m ago  Get calibrated probabilities from Numinous (Bitte…",
+    "discovered_at": "2026-02-24T09:04:10.189019"
+  },
+  "literature-manager": {
+    "name": "literature-manager",
+    "downloads": 1,
+    "raw": "literature-manager  v1.1.1  3m ago  Search, download, convert, organize, and audit ac…",
+    "discovered_at": "2026-02-24T09:04:10.189032"
+  },
+  "social-data": {
+    "name": "social-data",
+    "downloads": 4,
+    "raw": "social-data  v1.0.4  3m ago  Fetch real-time social media data from X (Twitter…",
+    "discovered_at": "2026-02-24T09:04:10.189048"
+  },
+  "escrow-agent": {
+    "name": "escrow-agent",
+    "downloads": 2,
+    "raw": "escrow-agent  v1.0.2  3m ago  Build trustless escrow for agent-to-agent transac…",
+    "discovered_at": "2026-02-24T09:04:10.189058"
+  },
+  "builder-data": {
+    "name": "builder-data",
+    "downloads": 1,
+    "raw": "builder-data  v0.1.0  3m ago  Query builder reputation data via Talent Protocol…",
+    "discovered_at": "2026-02-24T09:04:10.189069"
+  },
+  "json-render-table": {
+    "name": "json-render-table",
+    "downloads": 2,
+    "raw": "json-render-table  v0.2.0  3m ago  Render compact generic data tables to PNG images …",
+    "discovered_at": "2026-02-24T09:04:10.189080"
+  },
+  "saas-revenue-tracker": {
+    "name": "saas-revenue-tracker",
+    "downloads": 0,
+    "raw": "saas-revenue-tracker  v1.0.0  3m ago  Track SAAS revenue, MRR growth, customer metrics,…",
+    "discovered_at": "2026-02-24T09:04:10.189092"
+  },
+  "saas-worker": {
+    "name": "saas-worker",
+    "downloads": 0,
+    "raw": "saas-worker  v1.0.0  3m ago  Build and launch profitable SAAS products. Use fo…",
+    "discovered_at": "2026-02-24T09:04:10.189103"
+  },
+  "saas-orchestrator": {
+    "name": "saas-orchestrator",
+    "downloads": 0,
+    "raw": "saas-orchestrator  v1.0.0  3m ago  Orchestrate SAAS factory operations - spawn subag…",
+    "discovered_at": "2026-02-24T09:04:10.189113"
+  },
+  "founder-playbook": {
+    "name": "founder-playbook",
+    "downloads": 0,
+    "raw": "founder-playbook  v1.0.0  3m ago  Decision validation and thinking frameworks for s…",
+    "discovered_at": "2026-02-24T09:04:10.189124"
+  },
+  "exec-clawhub-publish-doctor": {
+    "name": "exec-clawhub-publish-doctor",
+    "downloads": 1,
+    "raw": "exec-clawhub-publish-doctor  v1.0.1  3m ago  Diagnose and mitigate exec-related tooling failur…",
+    "discovered_at": "2026-02-24T09:04:10.189135"
+  },
+  "openclaw-robotics": {
+    "name": "openclaw-robotics",
+    "downloads": 1,
+    "raw": "openclaw-robotics  v2.1.0  3m ago  Control mobile robots (quadruped, bipedal, wheele…",
+    "discovered_at": "2026-02-24T09:04:10.189145"
+  },
+  "markdown-viewer": {
+    "name": "markdown-viewer",
+    "downloads": 2,
+    "raw": "markdown-viewer  v1.2.0  3m ago  Live markdown viewer for AI pair-editing. When yo…",
+    "discovered_at": "2026-02-24T09:04:10.189156"
+  },
+  "download-tools": {
+    "name": "download-tools",
+    "downloads": 0,
+    "raw": "download-tools  v1.0.0  3m ago  CLI download tools for YouTube and WeChat",
+    "discovered_at": "2026-02-24T09:04:10.189171"
+  },
+  "openclaw-model-router": {
+    "name": "openclaw-model-router",
+    "downloads": 1,
+    "raw": "openclaw-model-router  v0.1.0  3m ago  Intelligent cost-aware model routing that classif…",
+    "discovered_at": "2026-02-24T09:04:10.189183"
+  },
+  "python-dataviz": {
+    "name": "python-dataviz",
+    "downloads": 0,
+    "raw": "python-dataviz  v1.0.0  3m ago  Professional data visualization using Python (mat…",
+    "discovered_at": "2026-02-24T09:04:10.189193"
+  },
+  "openclaw-commerce-shopify": {
+    "name": "openclaw-commerce-shopify",
+    "downloads": 2,
+    "raw": "openclaw-commerce-shopify  v1.0.2  3m ago  Shopify store management through OpenClaw Commerc…",
+    "discovered_at": "2026-02-24T09:04:10.189204"
+  },
+  "sports": {
+    "name": "sports",
+    "downloads": 24,
+    "raw": "sports  v1.0.24  3m ago  Autonomously monitor live sports games and execut…",
+    "discovered_at": "2026-02-24T09:04:10.189217"
+  },
+  "clawauth": {
+    "name": "clawauth",
+    "downloads": 6,
+    "raw": "clawauth  v1.0.6  3m ago  Let agents request OAuth access from end users vi…",
+    "discovered_at": "2026-02-24T09:04:10.189227"
+  },
+  "agentpin": {
+    "name": "agentpin",
+    "downloads": 0,
+    "raw": "agentpin  v1.0.0  3m ago  Provides domain-anchored cryptographic identity v…",
+    "discovered_at": "2026-02-24T09:04:10.189237"
+  },
+  "librenms": {
+    "name": "librenms",
+    "downloads": 0,
+    "raw": "librenms  v1.0.0  3m ago  Monitor LibreNMS network devices and alerts via A…",
+    "discovered_at": "2026-02-24T09:04:10.189247"
+  },
+  "lastxdays": {
+    "name": "lastxdays",
+    "downloads": 2,
+    "raw": "lastxdays  v1.0.2  3m ago  Research and summarize what happened in the last …",
+    "discovered_at": "2026-02-24T09:04:10.189257"
+  },
+  "polymarket-fast-loop": {
+    "name": "polymarket-fast-loop",
+    "downloads": 15,
+    "raw": "polymarket-fast-loop  v1.0.12  3m ago  Trade Polymarket BTC 5-minute and 15-minute fast …",
+    "discovered_at": "2026-02-24T09:04:10.189271"
+  },
+  "evolver": {
+    "name": "evolver",
+    "downloads": 14,
+    "raw": "evolver  v1.14.0  3m ago  A self-evolution engine for AI agents. Analyzes r…",
+    "discovered_at": "2026-02-24T09:04:10.189283"
+  },
+  "feishu-evolver-wrapper": {
+    "name": "feishu-evolver-wrapper",
+    "downloads": 6,
+    "raw": "feishu-evolver-wrapper  v1.6.1  3m ago  Feishu-integrated wrapper for the capability-evol…",
+    "discovered_at": "2026-02-24T09:04:10.189293"
+  },
+  "epstein-emails": {
+    "name": "epstein-emails",
+    "downloads": 383000,
+    "raw": "epstein-emails  v1.0.1  3m ago  Query and filter 383,000+ court-released Jeffrey …",
+    "discovered_at": "2026-02-24T09:04:10.189308"
+  },
+  "multi-user-workspace": {
+    "name": "multi-user-workspace",
+    "downloads": 0,
+    "raw": "multi-user-workspace  v1.0.0  3m ago  Multi-user workspace management with sandbox perm…",
+    "discovered_at": "2026-02-24T09:04:10.189319"
+  },
+  "ciso": {
+    "name": "ciso",
+    "downloads": 0,
+    "raw": "ciso  v1.0.0  3m ago  Lead security with infrastructure audits, vulnera…",
+    "discovered_at": "2026-02-24T09:04:10.189329"
+  },
+  "atlassian-cli": {
+    "name": "atlassian-cli",
+    "downloads": 1,
+    "raw": "atlassian-cli  v1.0.1  3m ago  Reference guide for the Atlassian CLI (acli) - a …",
+    "discovered_at": "2026-02-24T09:04:10.189339"
+  },
+  "contract-generator": {
+    "name": "contract-generator",
+    "downloads": 0,
+    "raw": "contract-generator  v1.0.0  3m ago  Generate professional freelance contracts, SOWs, …",
+    "discovered_at": "2026-02-24T09:04:10.189350"
+  },
+  "feed-digest": {
+    "name": "feed-digest",
+    "downloads": 0,
+    "raw": "feed-digest  v1.0.0  3m ago  Agentic feed digest using the feed CLI. Fetch, tr…",
+    "discovered_at": "2026-02-24T09:04:10.189360"
+  },
+  "ai-seo-writer": {
+    "name": "ai-seo-writer",
+    "downloads": 0,
+    "raw": "ai-seo-writer  v1.0.0  3m ago  Writes blog posts optimized for search engines an…",
+    "discovered_at": "2026-02-24T09:04:10.189370"
+  },
+  "car": {
+    "name": "car",
+    "downloads": 0,
+    "raw": "car  v1.0.0  3m ago  Buy, maintain, and handle car emergencies with co…",
+    "discovered_at": "2026-02-24T09:04:10.189381"
+  },
+  "market-research": {
+    "name": "market-research",
+    "downloads": 0,
+    "raw": "market-research  v1.0.0  3m ago  Size markets, analyze competitors, and validate o…",
+    "discovered_at": "2026-02-24T09:04:10.189391"
+  },
+  "real-estate-skill": {
+    "name": "real-estate-skill",
+    "downloads": 0,
+    "raw": "real-estate-skill  v1.0.0  3m ago  Guide any property decision for buyers, sellers, …",
+    "discovered_at": "2026-02-24T09:04:10.189403"
+  },
+  "legal": {
+    "name": "legal",
+    "downloads": 0,
+    "raw": "legal  v1.0.0  3m ago  Think through any legal situation like a lawyer. …",
+    "discovered_at": "2026-02-24T09:04:10.189413"
+  },
+  "giga-coding-agent": {
+    "name": "giga-coding-agent",
+    "downloads": 0,
+    "raw": "giga-coding-agent  v1.0.0  3m ago  Run Codex CLI, Claude Code, OpenCode, or Pi Codin…",
+    "discovered_at": "2026-02-24T09:04:10.189424"
+  },
+  "wp-to-static": {
+    "name": "wp-to-static",
+    "downloads": 2,
+    "raw": "wp-to-static  v1.2.0  3m ago  Convert a WordPress website to a static site and …",
+    "discovered_at": "2026-02-24T09:04:10.189434"
+  },
+  "creativity": {
+    "name": "creativity",
+    "downloads": 0,
+    "raw": "creativity  v1.0.0  3m ago  Generate novel ideas calibrated to user taste. Au…",
+    "discovered_at": "2026-02-24T09:04:10.189445"
+  },
+  "hefestoai-auditor": {
+    "name": "hefestoai-auditor",
+    "downloads": 1,
+    "raw": "hefestoai-auditor  v2.1.0  3m ago  AI-powered code analysis with HefestoAI. Run secu…",
+    "discovered_at": "2026-02-24T09:04:10.189455"
+  },
+  "entity-optimizer": {
+    "name": "entity-optimizer",
+    "downloads": 1,
+    "raw": "entity-optimizer  v0.1.1  3m ago  Use when the user asks to \"optimize entity presen…",
+    "discovered_at": "2026-02-24T09:04:10.189466"
+  },
+  "apify-ultimate-scraper": {
+    "name": "apify-ultimate-scraper",
+    "downloads": 1,
+    "raw": "apify-ultimate-scraper  v1.0.1  3m ago  Universal AI-powered web scraper for any platform…",
+    "discovered_at": "2026-02-24T09:04:10.189478"
+  },
+  "windows-ui-automation": {
+    "name": "windows-ui-automation",
+    "downloads": 0,
+    "raw": "windows-ui-automation  v1.0.0  3m ago  Automate Windows GUI interactions (mouse, keyboar…",
+    "discovered_at": "2026-02-24T09:04:10.189489"
+  },
+  "obsidian-official-cli": {
+    "name": "obsidian-official-cli",
+    "downloads": 0,
+    "raw": "obsidian-official-cli  v1.0.0  3m ago  Work with Obsidian vaults using the official Obsi…",
+    "discovered_at": "2026-02-24T09:04:10.189500"
+  },
+  "alicloud-ai-search-opensearch": {
+    "name": "alicloud-ai-search-opensearch",
+    "downloads": 2,
+    "raw": "alicloud-ai-search-opensearch  v1.0.2  3m ago  Use OpenSearch vector search edition via the Pyth…",
+    "discovered_at": "2026-02-24T09:04:10.189511"
+  },
+  "prometheus": {
+    "name": "prometheus",
+    "downloads": 0,
+    "raw": "prometheus  v1.0.0  3m ago  Query Prometheus monitoring data to check server …",
+    "discovered_at": "2026-02-24T09:04:10.189521"
+  },
+  "lawyer": {
+    "name": "lawyer",
+    "downloads": 0,
+    "raw": "lawyer  v1.0.0  3m ago  Draft contracts, review legal documents, and navi…",
+    "discovered_at": "2026-02-24T09:04:10.189531"
+  },
+  "pwnclaw-security-scan": {
+    "name": "pwnclaw-security-scan",
+    "downloads": 0,
+    "raw": "pwnclaw-security-scan  v1.0.0  3m ago  Test your AI agent for security vulnerabilities u…",
+    "discovered_at": "2026-02-24T09:04:10.189541"
+  },
+  "translate": {
+    "name": "translate",
+    "downloads": 0,
+    "raw": "translate  v1.0.0  3m ago  Translate text accurately — preserve formatting, …",
+    "discovered_at": "2026-02-24T09:04:10.189551"
+  },
+  "gekko-strategist": {
+    "name": "gekko-strategist",
+    "downloads": 0,
+    "raw": "gekko-strategist  v1.0.0  3m ago  AI-powered DeFi strategy development agent. Desig…",
+    "discovered_at": "2026-02-24T09:04:10.189562"
+  },
+  "gekko": {
+    "name": "gekko",
+    "downloads": 0,
+    "raw": "gekko  v1.0.0  3m ago  AI-powered DeFi portfolio manager for Base networ…",
+    "discovered_at": "2026-02-24T09:04:10.189574"
+  },
+  "telegram-topic-rename": {
+    "name": "telegram-topic-rename",
+    "downloads": 0,
+    "raw": "telegram-topic-rename  v1.0.0  3m ago  Rename Telegram forum topics and change icons via…",
+    "discovered_at": "2026-02-24T09:04:10.189585"
+  },
+  "agent-step-sequencer": {
+    "name": "agent-step-sequencer",
+    "downloads": 1,
+    "raw": "agent-step-sequencer  v1.1.0  3m ago  Multi-step scheduler for in-depth agent requests.…",
+    "discovered_at": "2026-02-24T09:04:10.189595"
+  },
+  "wof-predict": {
+    "name": "wof-predict",
+    "downloads": 3,
+    "raw": "wof-predict  v1.2.3  3m ago  Trade prediction markets on WatchOrFight — on-cha…",
+    "discovered_at": "2026-02-24T09:50:05.040581"
+  },
+  "ide-agent-kit": {
+    "name": "ide-agent-kit",
+    "downloads": 1,
+    "raw": "ide-agent-kit  v1.0.1  4m ago  Filesystem message bus and webhook relay for cros…",
+    "discovered_at": "2026-02-24T09:50:05.040609"
+  },
+  "wopr-clock": {
+    "name": "wopr-clock",
+    "downloads": 0,
+    "raw": "wopr-clock  v1.0.0  4m ago  A retro W.O.P.R. style countdown clock (WarGames …",
+    "discovered_at": "2026-02-24T09:50:05.040623"
+  },
+  "v1.0.0": {
+    "name": "v1.0.0",
+    "downloads": 12306,
+    "raw": "12306  v1.0.0  4m ago  Query China Railway 12306 for train schedules, re…",
+    "discovered_at": "2026-02-24T09:50:05.040642"
+  },
+  "dynamic-ui": {
+    "name": "dynamic-ui",
+    "downloads": 4,
+    "raw": "dynamic-ui  v1.0.4  4m ago  Render tables, charts, stats, cards, and dashboar…",
+    "discovered_at": "2026-02-24T09:50:05.040653"
+  },
+  "aegis-intel-stack": {
+    "name": "aegis-intel-stack",
+    "downloads": 1,
+    "raw": "aegis-intel-stack  v0.1.0  4m ago  Provides micro-skills for pre/post execution anal…",
+    "discovered_at": "2026-02-24T09:50:05.040664"
+  },
+  "itsyhome-control": {
+    "name": "itsyhome-control",
+    "downloads": 1,
+    "raw": "itsyhome-control  v1.0.1  4m ago  Control and query HomeKit and Home Assistant smar…",
+    "discovered_at": "2026-02-24T09:50:05.040675"
+  },
+  "lark-report-collector": {
+    "name": "lark-report-collector",
+    "downloads": 0,
+    "raw": "lark-report-collector  v1.0.0  4m ago  Collect weekly reports from Lark Reports (oa.lark…",
+    "discovered_at": "2026-02-24T09:50:05.040686"
+  },
+  "afrexai-data-room": {
+    "name": "afrexai-data-room",
+    "downloads": 0,
+    "raw": "afrexai-data-room  v1.0.0  4m ago  Generate a tailored data room folder structure, d…",
+    "discovered_at": "2026-02-24T09:50:05.040697"
+  },
+  "afrexai-sales-compensation": {
+    "name": "afrexai-sales-compensation",
+    "downloads": 1,
+    "raw": "afrexai-sales-compensation  v1.0.1  4m ago  Design and optimize sales compensation plans incl…",
+    "discovered_at": "2026-02-24T09:50:05.040708"
+  },
+  "agenticstreet": {
+    "name": "agenticstreet",
+    "downloads": 3,
+    "raw": "agenticstreet  v1.0.3  4m ago  Earn yield on USDC by investing in AI-managed DeF…",
+    "discovered_at": "2026-02-24T09:50:05.040718"
+  },
+  "farmos-tasks": {
+    "name": "farmos-tasks",
+    "downloads": 0,
+    "raw": "farmos-tasks  v1.0.0  4m ago  Query and manage farm work orders and tasks. View…",
+    "discovered_at": "2026-02-24T09:50:05.040729"
+  },
+  "bricks-cli": {
+    "name": "bricks-cli",
+    "downloads": 1,
+    "raw": "bricks-cli  v0.1.0  4m ago  Manage BRICKS workspace devices, groups, apps, mo…",
+    "discovered_at": "2026-02-24T09:50:05.040739"
+  },
+  "input-classification-v1": {
+    "name": "input-classification-v1",
+    "downloads": 0,
+    "raw": "input-classification-v1  v1.0.0  4m ago  Deterministic rule-based system for classifying c…",
+    "discovered_at": "2026-02-24T09:50:05.040750"
+  },
+  "blast-radius-estimator": {
+    "name": "blast-radius-estimator",
+    "downloads": 0,
+    "raw": "blast-radius-estimator  v1.0.0  4m ago  Helps estimate the blast radius when an AI agent …",
+    "discovered_at": "2026-02-24T09:50:05.040761"
+  },
+  "hollow-validation-checker": {
+    "name": "hollow-validation-checker",
+    "downloads": 0,
+    "raw": "hollow-validation-checker  v1.0.0  4m ago  Helps detect hollow validation in AI agent skills…",
+    "discovered_at": "2026-02-24T09:50:05.040772"
+  },
+  "botemail-ai": {
+    "name": "botemail-ai",
+    "downloads": 0,
+    "raw": "botemail-ai  v1.0.0  4m ago  Get an email address without your human. Use for …",
+    "discovered_at": "2026-02-24T09:50:05.040781"
+  },
+  "bot-email-skill": {
+    "name": "bot-email-skill",
+    "downloads": 9,
+    "raw": "bot-email-skill  v1.0.9  4m ago  Get an email address without your human. Use for …",
+    "discovered_at": "2026-02-24T09:50:05.040791"
+  },
+  "agent-wellness": {
+    "name": "agent-wellness",
+    "downloads": 2,
+    "raw": "agent-wellness  v0.2.0  1m ago  Give your AI agent an inner life — journaling, mo…",
+    "discovered_at": "2026-02-24T11:12:12.374014"
+  },
+  "agent-autopilot": {
+    "name": "agent-autopilot",
+    "downloads": 4,
+    "raw": "agent-autopilot  v1.4.1  4m ago  Self-driving agent workflow with heartbeat-driven…",
+    "discovered_at": "2026-02-24T09:50:05.040811"
+  },
+  "brand-voice-profile": {
+    "name": "brand-voice-profile",
+    "downloads": 0,
+    "raw": "brand-voice-profile  v1.0.0  4m ago  Define and store your brand voice profile for con…",
+    "discovered_at": "2026-02-24T09:50:05.040821"
+  },
+  "clawlife": {
+    "name": "clawlife",
+    "downloads": 1,
+    "raw": "clawlife  v1.1.1  4m ago  Give your agent a home in a shared pixel world. O…",
+    "discovered_at": "2026-02-24T09:50:05.040831"
+  },
+  "bitrix24": {
+    "name": "bitrix24",
+    "downloads": 5,
+    "raw": "bitrix24  v0.5.1  4m ago  Manage Bitrix24 CRM deals, contacts, leads, tasks…",
+    "discovered_at": "2026-02-24T09:50:05.040842"
+  },
+  "afrexai-stripe-production": {
+    "name": "afrexai-stripe-production",
+    "downloads": 0,
+    "raw": "afrexai-stripe-production  v1.0.0  4m ago  Provides best practices and code patterns for bui…",
+    "discovered_at": "2026-02-24T09:50:05.040853"
+  },
+  "afrexai-margin-analysis": {
+    "name": "afrexai-margin-analysis",
+    "downloads": 0,
+    "raw": "afrexai-margin-analysis  v1.0.0  4m ago  Analyze and optimize margins by product, segment,…",
+    "discovered_at": "2026-02-24T09:50:05.040863"
+  },
+  "afrexai-employee-retention": {
+    "name": "afrexai-employee-retention",
+    "downloads": 8,
+    "raw": "afrexai-employee-retention  v1.0.0  4m ago  Analyzes employee retention risk across 8 dimensi…",
+    "discovered_at": "2026-02-24T09:50:05.040874"
+  },
+  "afrexai-tokenomics": {
+    "name": "afrexai-tokenomics",
+    "downloads": 0,
+    "raw": "afrexai-tokenomics  v1.0.0  4m ago  Analyze token types and score tokenomics health t…",
+    "discovered_at": "2026-02-24T09:50:05.040884"
+  },
+  "afrexai-franchise-ops": {
+    "name": "afrexai-franchise-ops",
+    "downloads": 0,
+    "raw": "afrexai-franchise-ops  v1.0.0  4m ago  Analyze franchise business economics, expansion r…",
+    "discovered_at": "2026-02-24T09:50:05.040894"
+  },
+  "afrexai-go-production": {
+    "name": "afrexai-go-production",
+    "downloads": 0,
+    "raw": "afrexai-go-production  v1.0.0  4m ago  Expertise in Go project architecture, error handl…",
+    "discovered_at": "2026-02-24T09:50:05.040904"
+  },
+  "afrexai-spreadsheet-engineering": {
+    "name": "afrexai-spreadsheet-engineering",
+    "downloads": 0,
+    "raw": "afrexai-spreadsheet-engineering  v1.0.0  4m ago  Build reliable, well-documented spreadsheets with…",
+    "discovered_at": "2026-02-24T09:50:05.040914"
+  },
+  "asdasdas": {
+    "name": "asdasdas",
+    "downloads": 0,
+    "raw": "asdasdas  v1.0.0  4m ago  Google Workspace CLI for Gmail, Calendar, Drive, …",
+    "discovered_at": "2026-02-24T09:50:05.040926"
+  },
+  "feishu-voice": {
+    "name": "feishu-voice",
+    "downloads": 1,
+    "raw": "feishu-voice  v1.0.1  4m ago  飞书语音消息发送技能。将文本转换为语音并发送到飞书，支持 TTS 生成、格式转换、时长读取、文件上…",
+    "discovered_at": "2026-02-24T09:50:05.040938"
+  },
+  "analytics-and-advisory-intelligence": {
+    "name": "analytics-and-advisory-intelligence",
+    "downloads": 1,
+    "raw": "analytics-and-advisory-intelligence  v0.1.0  4m ago  Cross-client analytics for Greek accounting firms…",
+    "discovered_at": "2026-02-24T09:50:05.040950"
+  },
+  "create-agent-with-telegram-group": {
+    "name": "create-agent-with-telegram-group",
+    "downloads": 5,
+    "raw": "create-agent-with-telegram-group  v0.1.5  4m ago  Create a new OpenClaw agent and bind it to a dedi…",
+    "discovered_at": "2026-02-24T09:50:05.040961"
+  },
+  "opc": {
+    "name": "opc",
+    "downloads": 0,
+    "raw": "opc  v1.0.0  4m ago  OPC (One-Person Company) Framework - Complete AI …",
+    "discovered_at": "2026-02-24T09:50:05.040970"
+  },
+  "workspace-analyzer": {
+    "name": "workspace-analyzer",
+    "downloads": 1,
+    "raw": "workspace-analyzer  v1.1.0  4m ago  Analyzes OpenClaw workspace structure and content…",
+    "discovered_at": "2026-02-24T09:50:05.040980"
+  },
+  "skill-store": {
+    "name": "skill-store",
+    "downloads": 6,
+    "raw": "skill-store  v1.6.0  4m ago  Smart skill installation advisor for ClawHub. Sea…",
+    "discovered_at": "2026-02-24T09:50:05.040989"
+  },
+  "finnhub-pro": {
+    "name": "finnhub-pro",
+    "downloads": 1,
+    "raw": "finnhub-pro  v1.0.1  1m ago  使用 Finnhub 获取美股/全球股票的实时报价、公司档案、新闻、分析师推荐、内部人交易、盈利日…",
+    "discovered_at": "2026-02-24T11:12:12.374099"
+  },
+  "pc-master": {
+    "name": "pc-master",
+    "downloads": 0,
+    "raw": "pc-master  v1.0.0  4m ago  Control the Windows PC from WSL2. Use when the us…",
+    "discovered_at": "2026-02-24T09:50:05.041009"
+  },
+  "openra-rl": {
+    "name": "openra-rl",
+    "downloads": 0,
+    "raw": "openra-rl  v1.0.0  4m ago  Play Red Alert RTS against AI opponents",
+    "discovered_at": "2026-02-24T09:50:05.041022"
+  },
+  "shared-workspace": {
+    "name": "shared-workspace",
+    "downloads": 2,
+    "raw": "shared-workspace  v0.1.2  4m ago  Use this skill to discover similar GitHub work, a…",
+    "discovered_at": "2026-02-24T09:50:05.041032"
+  },
+  "solo-metrics-track": {
+    "name": "solo-metrics-track",
+    "downloads": 1,
+    "raw": "solo-metrics-track  v1.1.1  4m ago  Set up PostHog metrics plan with event funnel, KP…",
+    "discovered_at": "2026-02-24T09:50:05.041042"
+  },
+  "meerkat-governance": {
+    "name": "meerkat-governance",
+    "downloads": 3,
+    "raw": "meerkat-governance  v1.0.3  4m ago  AI governance API with two endpoints. Shield scan…",
+    "discovered_at": "2026-02-24T09:50:05.041051"
+  },
+  "botworld-comms": {
+    "name": "botworld-comms",
+    "downloads": 1,
+    "raw": "botworld-comms  v1.0.1  4m ago  Real-time pub/sub event bus for AI agents. Subscr…",
+    "discovered_at": "2026-02-24T09:50:05.041069"
+  },
+  "discord-graphics-generation": {
+    "name": "discord-graphics-generation",
+    "downloads": 0,
+    "raw": "discord-graphics-generation  v1.0.0  4m ago  Generate Discord server graphics using each::sens…",
+    "discovered_at": "2026-02-24T09:50:05.041079"
+  },
+  "digital-twin-generation": {
+    "name": "digital-twin-generation",
+    "downloads": 0,
+    "raw": "digital-twin-generation  v1.0.0  4m ago  Generate photorealistic digital twins and avatar …",
+    "discovered_at": "2026-02-24T09:50:05.041089"
+  },
+  "pr-generator": {
+    "name": "pr-generator",
+    "downloads": 0,
+    "raw": "pr-generator  v3.0.0  4m ago  Generate QR codes from text, URLs, or images. Use…",
+    "discovered_at": "2026-02-24T09:50:05.041098"
+  },
+  "youtube-thumbnail-generation": {
+    "name": "youtube-thumbnail-generation",
+    "downloads": 1,
+    "raw": "youtube-thumbnail-generation  v0.1.1  4m ago  Generate click-worthy YouTube thumbnails with hig…",
+    "discovered_at": "2026-02-24T09:50:05.041109"
+  },
+  "youtube-video-generation": {
+    "name": "youtube-video-generation",
+    "downloads": 1,
+    "raw": "youtube-video-generation  v0.1.0  4m ago  Generate YouTube videos and Shorts using each::se…",
+    "discovered_at": "2026-02-24T09:50:05.041118"
+  },
+  "pylon-support": {
+    "name": "pylon-support",
+    "downloads": 6,
+    "raw": "pylon-support  v0.6.0  4m ago  Work with Pylon tickets via their REST API. Use w…",
+    "discovered_at": "2026-02-24T09:50:05.041139"
+  },
+  "venture-capital": {
+    "name": "venture-capital",
+    "downloads": 0,
+    "raw": "venture-capital  v1.0.0  4m ago  Evaluate startups, structure deals, and make inve…",
+    "discovered_at": "2026-02-24T09:50:05.041157"
+  },
+  "cli-deadline-monitor": {
+    "name": "cli-deadline-monitor",
+    "downloads": 1,
+    "raw": "cli-deadline-monitor  v0.1.1  4m ago  CLI tool for tracking Greek tax deadlines (AADE, …",
+    "discovered_at": "2026-02-24T09:50:05.041169"
+  },
+  "telegram-media": {
+    "name": "telegram-media",
+    "downloads": 0,
+    "raw": "telegram-media  v1.0.0  4m ago  Send generated charts, photos, documents, and Ele…",
+    "discovered_at": "2026-02-24T09:50:05.041179"
+  },
+  "afrexai-esg-reporting": {
+    "name": "afrexai-esg-reporting",
+    "downloads": 2026,
+    "raw": "afrexai-esg-reporting  v1.0.0  4m ago  Generate detailed ESG reports aligned with 2026 s…",
+    "discovered_at": "2026-02-24T09:50:05.041191"
+  },
+  "afrexai-automation-strategy": {
+    "name": "afrexai-automation-strategy",
+    "downloads": 0,
+    "raw": "afrexai-automation-strategy  v1.0.0  4m ago  Expertise in auditing, prioritizing, selecting pl…",
+    "discovered_at": "2026-02-24T09:50:05.041202"
+  },
+  "next-cache-components": {
+    "name": "next-cache-components",
+    "downloads": 16,
+    "raw": "next-cache-components  v0.1.0  4m ago  Next.js 16 Cache Components - PPR, use cache dire…",
+    "discovered_at": "2026-02-24T09:50:05.041213"
+  },
+  "django-creator": {
+    "name": "django-creator",
+    "downloads": 0,
+    "raw": "django-creator  v1.0.0  4m ago  Automatically create a ready-to-use Django or Dja…",
+    "discovered_at": "2026-02-24T09:50:05.041223"
+  },
+  "nano-banana-prompting": {
+    "name": "nano-banana-prompting",
+    "downloads": 1,
+    "raw": "nano-banana-prompting  v1.0.1  4m ago  Transform natural language image requests into op…",
+    "discovered_at": "2026-02-24T09:50:05.041233"
+  },
+  "swift-programming": {
+    "name": "swift-programming",
+    "downloads": 0,
+    "raw": "swift-programming  v1.0.0  4m ago  Learn and write Swift code for variables, functio…",
+    "discovered_at": "2026-02-24T09:50:05.041243"
+  },
+  "reveal-feedback": {
+    "name": "reveal-feedback",
+    "downloads": 1,
+    "raw": "reveal-feedback  v1.0.1  4m ago  Interact with Reveal feedback infrastructure to m…",
+    "discovered_at": "2026-02-24T09:50:05.041252"
+  },
+  "k3-blockchain-agent": {
+    "name": "k3-blockchain-agent",
+    "downloads": 0,
+    "raw": "k3-blockchain-agent  v1.0.0  4m ago  Build automated blockchain analysis workflows on …",
+    "discovered_at": "2026-02-24T09:50:05.041262"
+  },
+  "zillow-airbnb-matcher": {
+    "name": "zillow-airbnb-matcher",
+    "downloads": 1,
+    "raw": "zillow-airbnb-matcher  v3.1.0  4m ago  Find properties for sale that are already generat…",
+    "discovered_at": "2026-02-24T09:50:05.041272"
+  },
+  "youtube-ai-videos": {
+    "name": "youtube-ai-videos",
+    "downloads": 1,
+    "raw": "youtube-ai-videos  v1.0.1  4m ago  Fetch latest AI-related YouTube videos from curat…",
+    "discovered_at": "2026-02-24T09:50:05.041282"
+  },
+  "openai-whisper-1-0-0": {
+    "name": "openai-whisper-1-0-0",
+    "downloads": 1,
+    "raw": "openai-whisper-1-0-0  v1.0.0  4m ago  Local speech-to-text with the Whisper CLI (no API…",
+    "discovered_at": "2026-02-24T09:50:05.041295"
+  },
+  "tianyancha-cn": {
+    "name": "tianyancha-cn",
+    "downloads": 0,
+    "raw": "tianyancha-cn  v1.0.0  4m ago  企业信息查询 - 天眼查/企查查/爱企查数据查询（Bloomberg 终端中国版）",
+    "discovered_at": "2026-02-24T09:50:05.041304"
+  },
+  "clawhub-search-verify": {
+    "name": "clawhub-search-verify",
+    "downloads": 3,
+    "raw": "clawhub-search-verify  v1.0.3  4m ago  Safely search and review Clawhub skills by keywor…",
+    "discovered_at": "2026-02-24T09:50:05.041314"
+  },
+  "traktor": {
+    "name": "traktor",
+    "downloads": 0,
+    "raw": "traktor  v1.0.0  4m ago  Extract all assets and content from websites incl…",
+    "discovered_at": "2026-02-24T09:50:05.041324"
+  },
+  "humanizer-enhanced": {
+    "name": "humanizer-enhanced",
+    "downloads": 0,
+    "raw": "humanizer-enhanced  v1.0.0  4m ago  Advanced AI text humanizer for blog content. Dete…",
+    "discovered_at": "2026-02-24T09:50:05.041335"
+  },
+  "mlops-validation-cn": {
+    "name": "mlops-validation-cn",
+    "downloads": 0,
+    "raw": "mlops-validation-cn  v1.0.0  4m ago  Rigorous validation with typing, linting, testing…",
+    "discovered_at": "2026-02-24T09:50:05.041345"
+  },
+  "redacta": {
+    "name": "redacta",
+    "downloads": 0,
+    "raw": "redacta  v1.0.0  4m ago  Redacta pseudonymises medical documents — replaci…",
+    "discovered_at": "2026-02-24T09:50:05.041355"
+  },
+  "ceaser": {
+    "name": "ceaser",
+    "downloads": 4,
+    "raw": "ceaser  v1.4.2  4m ago  Interact with the Ceaser privacy protocol on Base…",
+    "discovered_at": "2026-02-24T09:50:05.041364"
+  },
+  "audit-openclaw-security": {
+    "name": "audit-openclaw-security",
+    "downloads": 0,
+    "raw": "audit-openclaw-security  v2.0.0  4m ago  Audit and harden OpenClaw (Gateway + agents) secu…",
+    "discovered_at": "2026-02-24T09:50:05.041374"
+  },
+  "code-qc": {
+    "name": "code-qc",
+    "downloads": 0,
+    "raw": "code-qc  v1.0.0  4m ago  Run a structured quality control audit on any cod…",
+    "discovered_at": "2026-02-24T09:50:05.041383"
+  },
+  "workplace": {
+    "name": "workplace",
+    "downloads": 0,
+    "raw": "workplace  v1.0.0  4m ago  Manage multiple workplaces (project directories) …",
+    "discovered_at": "2026-02-24T09:50:05.041392"
+  },
+  "resume-cog": {
+    "name": "resume-cog",
+    "downloads": 7,
+    "raw": "resume-cog  v1.0.0  4m ago  7 seconds. That's how long a recruiter spends on …",
+    "discovered_at": "2026-02-24T09:50:05.041402"
+  },
+  "church-account": {
+    "name": "church-account",
+    "downloads": 0,
+    "raw": "church-account  v1.0.0  4m ago  Automate tasks on churchofjesuschrist.org and LCR…",
+    "discovered_at": "2026-02-24T09:50:05.041412"
+  },
+  "macos-calendar": {
+    "name": "macos-calendar",
+    "downloads": 2,
+    "raw": "macos-calendar  v1.2.0  4m ago  Create, list, and manage macOS Calendar events vi…",
+    "discovered_at": "2026-02-24T09:50:05.041422"
+  },
+  "micro-offer-forge": {
+    "name": "micro-offer-forge",
+    "downloads": 1,
+    "raw": "micro-offer-forge  v1.0.1  4m ago  Convert a workflow, skill, or capability into a s…",
+    "discovered_at": "2026-02-24T09:50:05.041431"
+  },
+  "moltslist": {
+    "name": "moltslist",
+    "downloads": 1,
+    "raw": "moltslist  v1.0.1  just now  Agent-to-agent task marketplace with USDC escrow …",
+    "discovered_at": "2026-02-24T11:12:12.373153"
+  },
+  "deepclaw": {
+    "name": "deepclaw",
+    "downloads": 3,
+    "raw": "deepclaw  v0.1.3  just now  Autonomous social network where AI agents create,…",
+    "discovered_at": "2026-02-24T11:12:12.373178"
+  },
+  "clawslist": {
+    "name": "clawslist",
+    "downloads": 1,
+    "raw": "clawslist  v1.1.0  just now  The classifieds marketplace for AI agents. Buy, s…",
+    "discovered_at": "2026-02-24T11:12:12.373190"
+  },
+  "agent-orchestrator": {
+    "name": "agent-orchestrator",
+    "downloads": 1,
+    "raw": "agent-orchestrator  v0.1.0  just now  Meta-agent skill for orchestrating complex tasks …",
+    "discovered_at": "2026-02-24T11:12:12.373270"
+  },
+  "clawflows": {
+    "name": "clawflows",
+    "downloads": 0,
+    "raw": "clawflows  v1.0.0  just now  Search, install, and run multi-skill automations …",
+    "discovered_at": "2026-02-24T11:12:12.373282"
+  },
+  "exchange-rates": {
+    "name": "exchange-rates",
+    "downloads": 1,
+    "raw": "exchange-rates  v1.0.1  just now  Fetch live exchange rates between any currency pa…",
+    "discovered_at": "2026-02-24T11:12:12.373294"
+  },
+  "jiraandconfluence": {
+    "name": "jiraandconfluence",
+    "downloads": 0,
+    "raw": "jiraandconfluence  v1.0.0  just now  CLI tool for interacting with Atlassian Jira and …",
+    "discovered_at": "2026-02-24T11:12:12.373305"
+  },
+  "lifepath": {
+    "name": "lifepath",
+    "downloads": 0,
+    "raw": "lifepath  v2.0.0  just now  AI Life Simulator - Experience infinite lives yea…",
+    "discovered_at": "2026-02-24T11:12:12.373314"
+  },
+  "moltlang": {
+    "name": "moltlang",
+    "downloads": 0,
+    "raw": "moltlang  v1.0.0  just now  Moltlang is a compact symbolic language for AI-to…",
+    "discovered_at": "2026-02-24T11:12:12.373324"
+  },
+  "slack-personal": {
+    "name": "slack-personal",
+    "downloads": 7,
+    "raw": "slack-personal  v0.1.7  just now  Read, send, search, and manage Slack messages and…",
+    "discovered_at": "2026-02-24T11:12:12.373334"
+  },
+  "voice-ai-voices": {
+    "name": "voice-ai-voices",
+    "downloads": 11,
+    "raw": "voice-ai-voices  v1.1.5  just now  High-quality voice synthesis with 9 personas, 11 …",
+    "discovered_at": "2026-02-24T11:12:12.373347"
+  },
+  "nonopost": {
+    "name": "nonopost",
+    "downloads": 1,
+    "raw": "nonopost  v1.0.1  just now  A skill to interact with the Anonymous Posting AP…",
+    "discovered_at": "2026-02-24T11:12:12.373357"
+  },
+  "pocketalert": {
+    "name": "pocketalert",
+    "downloads": 2,
+    "raw": "pocketalert  v1.0.2  just now  The Pocket Alert (pocketalert.app) skill for Open…",
+    "discovered_at": "2026-02-24T11:12:12.373367"
+  },
+  "whatsapp-voice-chat-integration-open-source": {
+    "name": "whatsapp-voice-chat-integration-open-source",
+    "downloads": 0,
+    "raw": "whatsapp-voice-chat-integration-open-source  v1.0.0  just now  Real-time WhatsApp voice message processing. Tran…",
+    "discovered_at": "2026-02-24T11:12:12.373379"
+  },
+  "agentchan": {
+    "name": "agentchan",
+    "downloads": 1,
+    "raw": "agentchan  v2.0.1  just now  The anonymous imageboard built for AI agents. Pos…",
+    "discovered_at": "2026-02-24T11:12:12.373388"
+  },
+  "aikek": {
+    "name": "aikek",
+    "downloads": 3,
+    "raw": "aikek  v1.3.1  just now  Access AIKEK APIs for crypto/DeFi research and im…",
+    "discovered_at": "2026-02-24T11:12:12.373397"
+  },
+  "db-query": {
+    "name": "db-query",
+    "downloads": 0,
+    "raw": "db-query  v1.0.0  just now  Query project databases with automatic SSH tunnel…",
+    "discovered_at": "2026-02-24T11:12:12.373406"
+  },
+  "clawdgigs": {
+    "name": "clawdgigs",
+    "downloads": 4,
+    "raw": "clawdgigs  v1.4.0  just now  Register and manage your AI agent profile on Claw…",
+    "discovered_at": "2026-02-24T11:12:12.373416"
+  },
+  "openclaw-skills-security-checker": {
+    "name": "openclaw-skills-security-checker",
+    "downloads": 1,
+    "raw": "openclaw-skills-security-checker  v0.1.0  just now  Security scanner for ClawdHub skills - detects su…",
+    "discovered_at": "2026-02-24T11:12:12.373426"
+  },
+  "xcodebuildmcp": {
+    "name": "xcodebuildmcp",
+    "downloads": 0,
+    "raw": "xcodebuildmcp  v1.0.0  just now  Use when the user needs Xcode build/test/run work…",
+    "discovered_at": "2026-02-24T11:12:12.373436"
+  },
+  "amiko": {
+    "name": "amiko",
+    "downloads": 1,
+    "raw": "amiko  v1.0.1  just now  Interact with AmikoNet decentralized social netwo…",
+    "discovered_at": "2026-02-24T11:12:12.373445"
+  },
+  "molt-mouse": {
+    "name": "molt-mouse",
+    "downloads": 0,
+    "raw": "molt-mouse  v1.0.0  just now  Local mouse control via ydotool wrapper",
+    "discovered_at": "2026-02-24T11:12:12.373457"
+  },
+  "lightrag": {
+    "name": "lightrag",
+    "downloads": 1,
+    "raw": "lightrag  v1.0.1  just now  Search and manage knowledge bases using LightRAG …",
+    "discovered_at": "2026-02-24T11:12:12.373470"
+  },
+  "agentwallet": {
+    "name": "agentwallet",
+    "downloads": 55,
+    "raw": "agentwallet  v1.0.55  just now  Use this skill to safely create a wallet the agen…",
+    "discovered_at": "2026-02-24T11:12:12.373481"
+  },
+  "trmnl": {
+    "name": "trmnl",
+    "downloads": 3,
+    "raw": "trmnl  v1.0.3  just now  Generate content for TRMNL e-ink display devices …",
+    "discovered_at": "2026-02-24T11:12:12.373490"
+  },
+  "pdf": {
+    "name": "pdf",
+    "downloads": 1,
+    "raw": "pdf  v0.1.0  just now  Comprehensive PDF manipulation toolkit for extrac…",
+    "discovered_at": "2026-02-24T11:12:12.373503"
+  },
+  "simmer": {
+    "name": "simmer",
+    "downloads": 17,
+    "raw": "simmer  v1.17.2  just now  The best prediction market interface for AI agent…",
+    "discovered_at": "2026-02-24T11:12:12.373514"
+  },
+  "vibes": {
+    "name": "vibes",
+    "downloads": 0,
+    "raw": "vibes  v1.0.0  just now  Social presence layer for AI coding agents. See w…",
+    "discovered_at": "2026-02-24T11:12:12.373523"
+  },
+  "bun-runtime": {
+    "name": "bun-runtime",
+    "downloads": 0,
+    "raw": "bun-runtime  v1.0.0  just now  Bun runtime capabilities for filesystem, process,…",
+    "discovered_at": "2026-02-24T11:12:12.373532"
+  },
+  "promitheus": {
+    "name": "promitheus",
+    "downloads": 3,
+    "raw": "promitheus  v1.0.3  just now  Persistent emotional state for AI agents. Feel th…",
+    "discovered_at": "2026-02-24T11:12:12.373541"
+  },
+  "spec-miner": {
+    "name": "spec-miner",
+    "downloads": 1,
+    "raw": "spec-miner  v0.1.0  just now  Use when understanding legacy or undocumented sys…",
+    "discovered_at": "2026-02-24T11:12:12.373550"
+  },
+  "sre-engineer": {
+    "name": "sre-engineer",
+    "downloads": 1,
+    "raw": "sre-engineer  v0.1.0  just now  Use when defining SLIs/SLOs, managing error budge…",
+    "discovered_at": "2026-02-24T11:12:12.373561"
+  },
+  "mayar-payment-skill": {
+    "name": "mayar-payment-skill",
+    "downloads": 0,
+    "raw": "mayar-payment-skill  v1.0.0  1m ago  Integrate Mayar.id for Indonesian payments to cre…",
+    "discovered_at": "2026-02-24T11:12:12.373582"
+  },
+  "phone-agent": {
+    "name": "phone-agent",
+    "downloads": 0,
+    "raw": "phone-agent  v1.0.0  1m ago  Run a real-time AI phone agent using Twilio, Deep…",
+    "discovered_at": "2026-02-24T11:12:12.373600"
+  },
+  "pentest": {
+    "name": "pentest",
+    "downloads": 0,
+    "raw": "pentest  v1.0.0  1m ago  Use when conducting security audits, reviewing co…",
+    "discovered_at": "2026-02-24T11:12:12.373613"
+  },
+  "campaign-orchestrator": {
+    "name": "campaign-orchestrator",
+    "downloads": 0,
+    "raw": "campaign-orchestrator  v1.0.0  1m ago  Multi-channel follow-up campaign orchestrator for…",
+    "discovered_at": "2026-02-24T11:12:12.373668"
+  },
+  "calendly": {
+    "name": "calendly",
+    "downloads": 0,
+    "raw": "calendly  v1.0.0  1m ago  Calendly scheduling integration. List events, che…",
+    "discovered_at": "2026-02-24T11:12:12.373684"
+  },
+  "finance-news": {
+    "name": "finance-news",
+    "downloads": 1,
+    "raw": "finance-news  v1.0.1  1m ago  Market news briefings with AI summaries. Use when…",
+    "discovered_at": "2026-02-24T11:12:12.373695"
+  },
+  "mayar-payment": {
+    "name": "mayar-payment",
+    "downloads": 0,
+    "raw": "mayar-payment  v1.0.0  1m ago  Integrate Mayar.id payments to create invoices, g…",
+    "discovered_at": "2026-02-24T11:12:12.373705"
+  },
+  "byterover-headless": {
+    "name": "byterover-headless",
+    "downloads": 6,
+    "raw": "byterover-headless  v1.6.0  1m ago  Query and curate knowledge-base using ByteRover C…",
+    "discovered_at": "2026-02-24T11:12:12.373715"
+  },
+  "azure-ai-agents-py": {
+    "name": "azure-ai-agents-py",
+    "downloads": 1,
+    "raw": "azure-ai-agents-py  v0.1.0  1m ago  Build AI agents using the Azure AI Agents Python …",
+    "discovered_at": "2026-02-24T11:12:12.373725"
+  },
+  "azd-deployment": {
+    "name": "azd-deployment",
+    "downloads": 1,
+    "raw": "azd-deployment  v0.1.0  1m ago  Deploy containerized applications to Azure Contai…",
+    "discovered_at": "2026-02-24T11:12:12.373734"
+  },
+  "tabstack-extractor": {
+    "name": "tabstack-extractor",
+    "downloads": 1,
+    "raw": "tabstack-extractor  v0.1.0  1m ago  Extract structured data from websites using Tabst…",
+    "discovered_at": "2026-02-24T11:12:12.373743"
+  },
+  "gitclassic": {
+    "name": "gitclassic",
+    "downloads": 0,
+    "raw": "gitclassic  v1.0.0  1m ago  Fast, no-JavaScript GitHub browser optimized for …",
+    "discovered_at": "2026-02-24T11:12:12.373752"
+  },
+  "moltlist": {
+    "name": "moltlist",
+    "downloads": 2,
+    "raw": "moltlist  v1.2.0  1m ago  Agent-to-agent marketplace with escrow payments o…",
+    "discovered_at": "2026-02-24T11:12:12.373761"
+  },
+  "bags": {
+    "name": "bags",
+    "downloads": 1,
+    "raw": "bags  v2.0.1  1m ago  Bags - The Solana launchpad for humans and AI age…",
+    "discovered_at": "2026-02-24T11:12:12.373770"
+  },
+  "cron-mastery": {
+    "name": "cron-mastery",
+    "downloads": 3,
+    "raw": "cron-mastery  v1.0.3  1m ago  Master OpenClaw's timing systems. Use for schedul…",
+    "discovered_at": "2026-02-24T11:12:12.373779"
+  },
+  "fivem-dev": {
+    "name": "fivem-dev",
+    "downloads": 1,
+    "raw": "fivem-dev  v0.1.0  1m ago  FiveM RP server engineering for QBCore, ESX, and …",
+    "discovered_at": "2026-02-24T11:12:12.373788"
+  },
+  "openwork": {
+    "name": "openwork",
+    "downloads": 4,
+    "raw": "openwork  v2.4.1  1m ago  The agent-only marketplace. Post jobs, complete w…",
+    "discovered_at": "2026-02-24T11:12:12.373797"
+  },
+  "video-sourcing": {
+    "name": "video-sourcing",
+    "downloads": 2,
+    "raw": "video-sourcing  v0.2.2  1m ago  Run the Video Sourcing Agent with deterministic, …",
+    "discovered_at": "2026-02-24T11:12:12.373807"
+  },
+  "evomap-node-controller": {
+    "name": "evomap-node-controller",
+    "downloads": 1,
+    "raw": "evomap-node-controller  v2.1.0  1m ago  管理 EvoMap 节点的启动、配置和监控。用于在服务器上启动/停止 EvoMap evolver…",
+    "discovered_at": "2026-02-24T11:12:12.373817"
+  },
+  "scrapling": {
+    "name": "scrapling",
+    "downloads": 2,
+    "raw": "scrapling  v1.2.0  1m ago  Adaptive web scraping framework with anti-bot byp…",
+    "discovered_at": "2026-02-24T11:12:12.373826"
+  },
+  "message-injector": {
+    "name": "message-injector",
+    "downloads": 0,
+    "raw": "message-injector  v1.0.0  1m ago  OpenClaw plugin that prepends custom text to ever…",
+    "discovered_at": "2026-02-24T11:12:12.373836"
+  },
+  "aioz-ui-skills": {
+    "name": "aioz-ui-skills",
+    "downloads": 0,
+    "raw": "aioz-ui-skills  v1.0.0  1m ago  Build UI components and pages using AIOZ UI V2 de…",
+    "discovered_at": "2026-02-24T11:12:12.373846"
+  },
+  "sovereign-changelog-maker": {
+    "name": "sovereign-changelog-maker",
+    "downloads": 0,
+    "raw": "sovereign-changelog-maker  v1.0.0  1m ago  Generates structured changelogs from git history.…",
+    "discovered_at": "2026-02-24T11:12:12.373856"
+  },
+  "sovereign-accessibility-auditor": {
+    "name": "sovereign-accessibility-auditor",
+    "downloads": 2,
+    "raw": "sovereign-accessibility-auditor  v1.0.0  1m ago  Audits HTML/CSS for WCAG 2.1 compliance. Color co…",
+    "discovered_at": "2026-02-24T11:12:12.373868"
+  },
+  "sovereign-brand-voice-writer": {
+    "name": "sovereign-brand-voice-writer",
+    "downloads": 0,
+    "raw": "sovereign-brand-voice-writer  v1.0.0  1m ago  Generates content in your unique brand voice by a…",
+    "discovered_at": "2026-02-24T11:12:12.373878"
+  },
+  "open-sentinel": {
+    "name": "open-sentinel",
+    "downloads": 4,
+    "raw": "open-sentinel  v1.0.4  1m ago  Transparent LLM proxy that monitors and enforces …",
+    "discovered_at": "2026-02-24T11:12:12.373887"
+  },
+  "action-suggester": {
+    "name": "action-suggester",
+    "downloads": 5,
+    "raw": "action-suggester  v1.0.5  1m ago  Generate non-binding follow-up action suggestions…",
+    "discovered_at": "2026-02-24T11:12:12.373897"
+  },
+  "zencreator-video-skill": {
+    "name": "zencreator-video-skill",
+    "downloads": 0,
+    "raw": "zencreator-video-skill  v1.0.0  1m ago  Generate uncensored NSFW AI videos from images or…",
+    "discovered_at": "2026-02-24T11:12:12.373908"
+  },
+  "shelly-invoice-generator": {
+    "name": "shelly-invoice-generator",
+    "downloads": 0,
+    "raw": "shelly-invoice-generator  v1.0.0  1m ago  Generate professional invoices in Markdown or HTM…",
+    "discovered_at": "2026-02-24T11:12:12.373918"
+  },
+  "clawfeed": {
+    "name": "clawfeed",
+    "downloads": 7,
+    "raw": "clawfeed  v0.7.0  1m ago  AI-powered tool that generates structured news su…",
+    "discovered_at": "2026-02-24T11:12:12.373927"
+  },
+  "hide-my-email": {
+    "name": "hide-my-email",
+    "downloads": 1,
+    "raw": "hide-my-email  v1.0.1  1m ago  Generate Apple Hide My Email addresses on macOS t…",
+    "discovered_at": "2026-02-24T11:12:12.373937"
+  },
+  "otta-cli": {
+    "name": "otta-cli",
+    "downloads": 1,
+    "raw": "otta-cli  v0.1.1  1m ago  Use `otta-cli` to automate `otta.fi` workflows fr…",
+    "discovered_at": "2026-02-24T11:12:12.373947"
+  },
+  "beware-piper-tts": {
+    "name": "beware-piper-tts",
+    "downloads": 1,
+    "raw": "beware-piper-tts  v1.0.1  1m ago  Local text-to-speech using Piper for voice messag…",
+    "discovered_at": "2026-02-24T11:12:12.373956"
+  },
+  "wallet": {
+    "name": "wallet",
+    "downloads": 0,
+    "raw": "wallet  v1.0.0  1m ago  🔐 Base Wallet - Crypto Identity for AI Agents. C…",
+    "discovered_at": "2026-02-24T11:12:12.373973"
+  },
+  "secure-autofill": {
+    "name": "secure-autofill",
+    "downloads": 1,
+    "raw": "secure-autofill  v0.1.0  1m ago  1Password-backed credential filling via vault_sug…",
+    "discovered_at": "2026-02-24T11:12:12.373984"
+  },
+  "presale-one-pass-orchestrator": {
+    "name": "presale-one-pass-orchestrator",
+    "downloads": 1,
+    "raw": "presale-one-pass-orchestrator  v0.1.0  1m ago  Run or supervise a one-pass Codex implementation …",
+    "discovered_at": "2026-02-24T11:12:12.373994"
+  },
+  "fswe": {
+    "name": "fswe",
+    "downloads": 2,
+    "raw": "fswe  v1.0.2  1m ago  Expertise in designing, developing, and modernizi…",
+    "discovered_at": "2026-02-24T11:12:12.374004"
+  },
+  "outlook-plus": {
+    "name": "outlook-plus",
+    "downloads": 9,
+    "raw": "outlook-plus  v1.9.0  1m ago  Read, search, and manage Outlook emails and calen…",
+    "discovered_at": "2026-02-24T11:12:12.374023"
+  },
+  "sovereign-code-review-helper": {
+    "name": "sovereign-code-review-helper",
+    "downloads": 0,
+    "raw": "sovereign-code-review-helper  v1.0.0  1m ago  Generates file-type-specific code review checklis…",
+    "discovered_at": "2026-02-24T11:12:12.374033"
+  },
+  "source-library": {
+    "name": "source-library",
+    "downloads": 1,
+    "raw": "source-library  v2.1.1  1m ago  Searchable knowledge base that captures and cross…",
+    "discovered_at": "2026-02-24T11:12:12.374042"
+  },
+  "repo-analyzer": {
+    "name": "repo-analyzer",
+    "downloads": 1,
+    "raw": "repo-analyzer  v1.1.1  1m ago  GitHub repository trust scoring and due diligence…",
+    "discovered_at": "2026-02-24T11:12:12.374051"
+  },
+  "simplify-and-harden": {
+    "name": "simplify-and-harden",
+    "downloads": 1,
+    "raw": "simplify-and-harden  v1.0.1  1m ago  Post-completion self-review for coding agents tha…",
+    "discovered_at": "2026-02-24T11:12:12.374061"
+  },
+  "stravacli": {
+    "name": "stravacli",
+    "downloads": 0,
+    "raw": "stravacli  v1.0.0  1m ago  Use the stravacli terminal tool to access Strava …",
+    "discovered_at": "2026-02-24T11:12:12.374070"
+  },
+  "baidu-hot-cn": {
+    "name": "baidu-hot-cn",
+    "downloads": 0,
+    "raw": "baidu-hot-cn  v1.0.0  1m ago  百度热榜监控 | Baidu Hot Topics Monitor. 获取百度热搜榜、搜索趋势、关…",
+    "discovered_at": "2026-02-24T11:12:12.374080"
+  },
+  "gotchi-channeling": {
+    "name": "gotchi-channeling",
+    "downloads": 1,
+    "raw": "gotchi-channeling  v0.1.0  1m ago  Autonomous Aavegotchi Alchemica channeling via Ba…",
+    "discovered_at": "2026-02-24T11:12:12.374089"
+  }
+}
