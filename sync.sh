@@ -10,8 +10,8 @@ REPO_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 WORKSPACES=(
   "main:/home/administrator/.openclaw/workspace"
   "router:/home/administrator/.openclaw/workspace-aegis"
-  "brain:/home/administrator/.openclaw/workspace-oracle"
-  "builder:/home/administrator/.openclaw/workspace-logic"
+  "brain:/home/administrator/.openclaw/workspace-brain"
+  "builder:/home/administrator/.openclaw/workspace-builder"
   "reserve-growth:/home/administrator/.openclaw/workspace-growth"
   "reserve-metrics:/home/administrator/.openclaw/workspace-metrics"
 )
@@ -97,5 +97,12 @@ if [ "${DRY_RUN:-}" = "1" ]; then
   echo "[sync] DRY_RUN=1 set; skipping push"
   exit 0
 fi
+
+# GitHub SSH 22 is blocked in some networks/WSL setups. Use ssh.github.com:443.
+SSH_KEY="/home/administrator/.openclaw/credentials/ssh_myclaw"
+export GIT_SSH_COMMAND="ssh -i $SSH_KEY -o IdentitiesOnly=yes -o StrictHostKeyChecking=accept-new -p 443"
+
+# Ensure remote uses port 443 endpoint.
+git remote set-url origin "ssh://git@ssh.github.com:443/PowerfulJourney/MyClaw.git"
 
 git push origin HEAD
